@@ -1,0 +1,19 @@
+/*
+Theme Name: Twenty Eleven ValueQb
+Theme URI: http://wordpress.org/extend/themes/twentyeleven/valueqb
+Author: ValueQb Consulting Pvt. Ltd.
+Author URI: http://valueqb.com
+Template: twentyeleven
+*/
+
+@import url("../twentyeleven/style.css");
+
+div#slidesharelightbox_presentation_list {
+    height: 150px;
+    background-color: black;
+    opacity: 0.5;
+}
+
+div#slidesharelightbox_presentation_list img {
+    padding: 11px 10px;
+}
